@@ -8,6 +8,6 @@
 
 #Soal No. 4 ada di folder 4A screenshoot
 
-#Soal 5
+#Soal 5 ad di folder 4B
 
 disini saya menggunakn framework Laravel
