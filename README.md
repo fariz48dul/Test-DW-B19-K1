@@ -18,6 +18,6 @@ Untuk Instalasi program yang saya gunakan =>
 2. Rename file .env.example menjadi .env
 3. jalankan php artisan key:generate
 4. buat database
-5. import sql at folder db
+5. import sql ada di folder db
 6. atur .env DB_DATABASE sama dengan database yang dibuat & atur DB_USERNAME, DB_PASSWORD juga
 7. sekarang php artisan serve to run
